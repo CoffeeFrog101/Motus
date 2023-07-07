@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1005448594516",
+    "project_id": "ultra-badge-347609",
+    "storage_bucket": "ultra-badge-347609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005448594516:android:cdd4beedc53f266b9e99c1",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005448594516-oubmeahmvcbvv38um1bvcn0ltlpqtkjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ20aBLEVjSCFU8qDfWeLoRcJQmjf9_Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005448594516-oubmeahmvcbvv38um1bvcn0ltlpqtkjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005448594516:android:cf204975938e00269e99c1",
+        "android_client_info": {
+          "package_name": "com.example.motus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005448594516-oubmeahmvcbvv38um1bvcn0ltlpqtkjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ20aBLEVjSCFU8qDfWeLoRcJQmjf9_Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005448594516-oubmeahmvcbvv38um1bvcn0ltlpqtkjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

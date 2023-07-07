@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/Track"
+        android:icon="@drawable/ic_baseline_add_location_24"
+        android:title="Track"
+        />
+
+    <item
+        android:id="@+id/Calander"
+        android:icon="@drawable/ic_baseline_calendar_month_24"
+        android:title="Calander"
+        />
+
+    <item
+        android:id="@+id/Stats"
+        android:icon="@drawable/ic_baseline_query_stats_24"
+        android:title="Stats"
+        />
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="Profile"
+        />
+
+
+
+</menu>

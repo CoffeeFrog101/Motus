@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Motus</string>
+    <string name="Password">Enter your Password</string>
+    <string name="Email">Enter your Email</string>
+    <string name="sign_in">Sign-in</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
